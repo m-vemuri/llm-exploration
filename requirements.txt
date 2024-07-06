@@ -1,1 +1,6 @@
-tqdm notebook==7.1.2 openai elasticsearch pandas scikit-learn
+tqdm 
+notebook==7.1.2 
+openai 
+elasticsearch 
+pandas 
+scikit-learn
